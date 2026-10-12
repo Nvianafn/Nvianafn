@@ -1,60 +1,57 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/profile-light.svg">
-  <img alt="Novian Affan Ashofah — Backend & Infrastructure. Build, ship, secure." src="./assets/profile-light.svg" width="100%">
-</picture>
+<h1 align="center">Hey, I'm Affan.</h1>
 
-<p>
-  <a href="https://ashofah.me">Portfolio ↗</a>
-  &nbsp; / &nbsp;
-  <a href="mailto:affan.ashofah@gmail.com">Email ↗</a>
-  &nbsp; / &nbsp;
-  <a href="https://github.com/Nvianafn?tab=repositories">Repositories ↗</a>
+<p align="center">Backend development &nbsp;·&nbsp; DevOps &nbsp;·&nbsp; Application security</p>
+
+<p align="center">
+  <a href="https://ashofah.me">ashofah.me ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:affan.ashofah@gmail.com">email ↗</a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/Nvianafn?tab=repositories">code ↗</a>
 </p>
 
-<br>
+I'm Novian Affan Ashofah, an Informatics student at UIN Saizu Purwokerto. I work on APIs, databases, and Linux deployments — and enjoy figuring out how to make them run better.
+Stack
+Backend & data
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="32" height="32" alt="PHP" title="PHP">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" width="32" height="32" alt="Laravel" title="Laravel">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="32" height="32" alt="Node.js" title="Node.js">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="32" height="32" alt="JavaScript" title="JavaScript">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="32" height="32" alt="TypeScript" title="TypeScript">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="32" height="32" alt="MySQL" title="MySQL">
+</p>
 
-I'm **Affan**, an Informatics student at UIN Saizu Purwokerto.
-I build backend systems, manage Linux deployments, and explore application security.
+Deployment & tools
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="32" height="32" alt="Linux" title="Linux">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="32" height="32" alt="Nginx" title="Nginx">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="32" height="32" alt="Docker (basic)" title="Docker (basic)">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" width="32" height="32" alt="GitHub Actions" title="GitHub Actions">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cloudflare/cloudflare-original.svg" width="32" height="32" alt="Cloudflare" title="Cloudflare">
+  &nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="32" height="32" alt="Git" title="Git">
+</p>
 
-### 01 / Build · Ship · Secure
-
-| Build | Ship | Secure |
-| :--- | :--- | :--- |
-| RESTful APIs & relational data | Linux hosting & CI/CD | Access control & server hardening |
-| `Laravel` `Node.js` `MySQL` | `Nginx` `PM2` `GitHub Actions` | `RBAC` `SSL/TLS` `Burp Suite` |
-
-<br>
-
-### 02 / Selected work
-
-**[YASU Project ↗](https://yasu-project.com)**  
-A full-stack platform with a Next.js frontend and a Node.js API.  
-`Next.js` `Node.js` `REST API` · [Live website ↗](https://yasu-project.com)
-
-**[PMII Rayon Saintek ↗](https://github.com/Nvianafn/pmii-rayon-saintek-laravel)**  
-A publishing platform with article management and role-based administration.  
-`Laravel` `MySQL` · [Live website ↗](https://rayonsaintek.com)
-
-**[Personal portfolio ↗](https://github.com/Nvianafn/ashofah-portfolio)**  
-My space for projects, experiments, and an interactive terminal.  
-[Explore ashofah.me ↗](https://ashofah.me)
-
-<br>
-
+Selected work
+- YASU Project ↗ — A full-stack platform with Next.js and a Node.js API.
+- PMII Rayon Saintek ↗ — A Laravel publishing platform with role-based administration.
+- ashofah.me ↗ — My portfolio, with projects and an interactive terminal.
 <details>
-  <summary>03 / Beyond the core stack</summary>
+<summary>More about my toolkit</summary>
 
-  <br>
 
-  **Web:** JavaScript, TypeScript, Next.js, Tailwind CSS, Bootstrap  
-  **Infrastructure:** Docker (basic), Cloudflare R2, Cloudflare Tunnel, Azure Container Apps  
-  **Tools:** Git, Bash, Postman, VS Code, Figma
-
+Web: Next.js, Tailwind CSS, Bootstrap
+Infrastructure: PM2, Cloudflare R2, Cloudflare Tunnel, Azure Container Apps
+Tools: Postman, Bash, Burp Suite, VS Code, Figma
+Interests: Application security, REST APIs, deployment automation
 </details>
-
-<br>
-
----
-
-<sub>Curious about how systems work. Careful about how they run.</sub>
